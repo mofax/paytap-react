@@ -1,0 +1,1 @@
+export type POJO = {[k: string]: any}
